@@ -1,4 +1,4 @@
-var cacheName = 'rpg_demo';
+var cacheName = 'party-peril';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
